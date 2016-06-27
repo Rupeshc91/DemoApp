@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductsApp</string>
+    <string name="action_english">English</string>
+    <string name="action_hindi">Hindi</string>
+    <string name="search_list">Search List</string>
+    <string name="empty_text">No items to display</string>
+</resources>

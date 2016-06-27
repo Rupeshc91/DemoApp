@@ -1,0 +1,61 @@
+[
+  {
+    "name": "डेड पूल",
+    "url": "http://api.androidhive.info/images/glide/medium/deadpool.jpg",
+    "price": "150"
+  },
+  {
+    "name": "बैटमैन बनाम सुपरमैन",
+    "url": "http://api.androidhive.info/images/glide/medium/bvs.jpg",
+    "price": "2000"
+  },
+  {
+    "name": "अमेरिकी कप्तान",
+    "url": "http://api.androidhive.info/images/glide/medium/cacw.jpg",
+    "price": "4556"
+  },
+  {
+    "name": "जेसन बॉर्न",
+    "url": "http://api.androidhive.info/images/glide/medium/bourne.jpg",
+    "price": "56456"
+  },
+  {
+    "name": "आत्मघाती दस्ता",
+    "url": "http://api.androidhive.info/images/glide/medium/squad.jpg",
+    "price": "44664"
+  },
+  {
+    "name": "डॉक्टर अजीब",
+    "url": "http://api.androidhive.info/images/glide/medium/doctor.jpg"
+  },
+  {
+    "name": "नाव को खोजना",
+    "url": "http://api.androidhive.info/images/glide/medium/dory.jpg",
+    "price": "78756"
+  },
+  {
+    "name": "भूख",
+    "url": "http://api.androidhive.info/images/glide/medium/hunger.jpg",
+    "price": "1454"
+  },
+  {
+    "name": "बेहतरीन घंटे",
+    "url": "http://api.androidhive.info/images/glide/medium/hours.jpg",
+    "price": "4454"
+  },
+  {
+    "name": "आईपी ​​मैन 3",
+    "url": "http://api.androidhive.info/images/glide/medium/ipman3.jpg",
+    "price": "4545"
+  },
+  {
+    "name": "वन की किताब",
+    "url": "http://api.androidhive.info/images/glide/medium/book.jpg",
+    "price": "7875"
+  },
+  {
+    "name": "एक्स पुरुष",
+    "url": "http://api.androidhive.info/images/glide/medium/xmen.jpg",
+    "price": "54545"
+  }
+]

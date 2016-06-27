@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Deadpool",
+    "url": "http://api.androidhive.info/images/glide/medium/deadpool.jpg",
+    "price": "150"
+  },
+  {
+    "name": "Batman vs Superman",
+    "url": "http://api.androidhive.info/images/glide/medium/bvs.jpg",
+    "price": "2000"
+  },
+  {
+    "name": "Captain America: Civil War",
+    "url": "http://api.androidhive.info/images/glide/medium/cacw.jpg",
+    "price": "4556"
+  },
+  {
+    "name": "Jason Bourne",
+    "url": "http://api.androidhive.info/images/glide/medium/bourne.jpg",
+    "price": "56456"
+  },
+  {
+    "name": "Suicide Squad",
+    "url": "http://api.androidhive.info/images/glide/medium/squad.jpg",
+    "price": "44664"
+  },
+  {
+    "name": "Doctor Strange",
+    "url": "http://api.androidhive.info/images/glide/medium/doctor.jpg"
+  },
+  {
+    "name": "Finding Dory",
+    "url": "http://api.androidhive.info/images/glide/medium/dory.jpg",
+    "price": "78756"
+  },
+  {
+    "name": "The Hunger Games: Mockingjay",
+    "url": "http://api.androidhive.info/images/glide/medium/hunger.jpg",
+    "price": "1454"
+  },
+  {
+    "name": "The Finest Hours",
+    "url": "http://api.androidhive.info/images/glide/medium/hours.jpg",
+    "price": "4454"
+  },
+  {
+    "name": "Ip Man 3",
+    "url": "http://api.androidhive.info/images/glide/medium/ipman3.jpg",
+    "price": "4545"
+  },
+  {
+    "name": "The Jungle Book",
+    "url": "http://api.androidhive.info/images/glide/medium/book.jpg",
+    "price": "7875"
+  },
+  {
+    "name": "X-Men: Apocalypse",
+    "url": "http://api.androidhive.info/images/glide/medium/xmen.jpg",
+    "price": "54545"
+  }
+]
